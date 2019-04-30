@@ -1,0 +1,11 @@
+{
+  "name": "happy-number",
+  "version": "1.0.0",
+  "description": "App to find happy numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darren Klinefelter <dklinefelter1@gmail.com>",
+  "license": "ISC"
+}
