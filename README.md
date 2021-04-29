@@ -1,1 +1,1 @@
-# happy-number
+# A number that is Happy is defined by Wikipedia as : A number which eventually reaches 1 when replaced by the sum of the square of each digit. A number that is not happy is considered sad or unhappy.
